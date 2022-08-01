@@ -1,7 +1,7 @@
 # Voting-System-Project
 
 
-##About 
+## About 
 
 A program that represents a theoretical election process on Antarctica
 
